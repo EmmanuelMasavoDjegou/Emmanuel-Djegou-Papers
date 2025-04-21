@@ -6,7 +6,7 @@ Welcome to my research portfolio. I am a Ph.D. candidate in Statistics at Missou
 
 ## 📫 Contact
 
-📧 emdwmt@mst.edu
+📧 emmanueldjegou5@gmail.com
 
 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/) 
 
