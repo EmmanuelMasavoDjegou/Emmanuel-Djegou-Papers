@@ -1,4 +1,4 @@
-# 🧠 Research by Emmanuel Masavo DJEGOU
+# 🧠 Research by Emmanuel DJEGOU
 
 Welcome to my research portfolio. I am a Ph.D. candidate in Statistics at Missouri University of Science and Technology, focusing on deep learning for survival analysis.
 
