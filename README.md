@@ -1,8 +1,16 @@
 # 🧠 Research by Emmanuel DJEGOU
 
-Welcome to my research portfolio. I am a Ph.D. candidate in Statistics at Missouri University of Science and Technology, focusing on deep learning for survival analysis.
+I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and Technology**, specializing in **deep learning methods for survival analysis**. This repository showcases my research projects, code, and findings.
 
-## Expertise: Neural Networks, Reccurent Events, Accelerated Life Models
+## 🧠 Research Interests
+
+- Recurrent Event Modeling  
+- Accelerated Life Models  
+- Neural Networks
+
+## 📂 Projects
+
+Stay tuned — I’ll be regularly posting updates and research results here!
 ___
 
 ## 📜 Reseach Framework
