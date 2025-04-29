@@ -4,6 +4,8 @@ Welcome to my research portfolio. I am a Ph.D. candidate in Statistics at Missou
 
 ___
 
+## 📜 Reseach Framework
+
 ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
 
 ---
