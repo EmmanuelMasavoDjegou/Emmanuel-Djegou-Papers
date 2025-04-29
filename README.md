@@ -2,7 +2,7 @@
 
 I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and Technology**, specializing in **deep learning methods for survival analysis**. This repository showcases my research projects, code, and findings.
 
-## 🧠 Research Interests
+##  🎯 Interests
 
 - Recurrent Event Modeling  
 - Accelerated Life Models  
