@@ -13,7 +13,7 @@ I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and
 Stay tuned — I’ll be regularly posting updates and research results here!
 ___
 
-## 📜 Reseach Framework
+## 📜 Research Framework
 
 ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
 
