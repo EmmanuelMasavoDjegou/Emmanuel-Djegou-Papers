@@ -22,8 +22,8 @@ ___
 
 Accelerated life models, such as the Accelerated Failure Time (AFT) model, relate covariates to log event times under right-censoring and extend naturally to recurrent events via the Accelerated Gap Time (AGT) model. While they provide intuitive interpretations and serve as meaningful alternatives to the Cox model, they often overlook the effects of interventions occurring between events—common in fields like reliability engineering and biomedical research.
 
-- Propose a broader class of **semiparametric accelerated life models** incorporating an **effective age process** to capture intervention effects.
-- Develop a **sample-based weighted efficient score function** using parametric submodels to address infinite-dimensional baseline hazards and non-monotone score functions.
+- Proposed a broader class of **semiparametric accelerated life models** incorporating an **effective age process** to capture intervention effects.
+- Developed a **sample-based weighted efficient score function** using parametric submodels to address infinite-dimensional baseline hazards and non-monotone score functions.
 - Estimators are **consistent and asymptotically normal**.
 - Validated via simulations and application to real biomedical data.
 
@@ -37,7 +37,7 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 - Offers flexible modeling of recurrent events (e.g., post-surgical readmissions), accounting for censoring and imperfect interventions.
 - Inference based on **semiparametric efficiency theory** via reparameterization of baseline intensity and monotone estimating equations.
 - Estimators are **consistent and asymptotically normal**.
-- Propose a **novel failure time simulation algorithm**.
+- Proposed a **novel failure time simulation algorithm**.
 - Demonstrated improved accuracy on biomedical datasets.
 
 ---
@@ -50,7 +50,7 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Capture nonlinear relationships between covariates and event times over multiple occurrences.
 - Include a **subject-level frailty term** for within-subject dependence.
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
-- Simulations and real-world data show DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
+- Perform simulation studies and real-world data applications to show that DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
 ___
 
