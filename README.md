@@ -8,6 +8,14 @@ I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and
 - Accelerated Life Models  
 - Neural Networks
 
+___
+
+## 📜 Research Framework
+
+![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
+
+---
+
 ## 📂 Projects
 
 ### Paper 1: Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events
@@ -44,14 +52,7 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
 - Simulations and real-world data show DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
-
 ___
-
-## 📜 Research Framework
-
-![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
-
----
 
 ## 📫 Contact
 
