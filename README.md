@@ -16,7 +16,7 @@ ___
 
 ---
 
-## 📂 Projects
+## 📂 Ongoing Projects
 
 ### Paper 1: Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events
 
