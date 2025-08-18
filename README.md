@@ -18,7 +18,7 @@ ___
 
 ## 📂 Ongoing Projects
 
-### Paper 1: Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events
+### ☞ Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events
 
 Accelerated life models, such as the Accelerated Failure Time (AFT) model, relate covariates to log event times under right-censoring and extend naturally to recurrent events via the Accelerated Gap Time (AGT) model. While they provide intuitive interpretations and serve as meaningful alternatives to the Cox model, they often overlook the effects of interventions occurring between events—common in fields like reliability engineering and biomedical research.
 
@@ -29,7 +29,7 @@ Accelerated life models, such as the Accelerated Failure Time (AFT) model, relat
 
 ---
 
-### Paper 2: Extending Virtual Age Models via Dynamic Covariate Acceleration for Biomedical Applications
+### ☞ Extending Virtual Age Models via Dynamic Covariate Acceleration for Biomedical Applications
 
 Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
 
@@ -42,7 +42,7 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 
 ---
 
-### Paper 3: Modeling Recurrent Events Using Deep Neural Networks in Accelerated Failure Time Models
+### ☞ Modeling Recurrent Events Using Deep Neural Networks in Accelerated Failure Time Models
 
 Recurrent event data commonly arise in biomedical and reliability studies, with multiple failures per subject.
 
