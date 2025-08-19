@@ -52,16 +52,6 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
 - Perform simulation studies and real-world data applications to show that DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
-___
-
-## 📫 Contact
-
-📧 emmanueldjegou5@gmail.com
-
-🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/) 
-
-🐙 [GitHub](https://github.com/EmmanuelMasavoDjegou)
-
 ---
 
 ## 📜 License
