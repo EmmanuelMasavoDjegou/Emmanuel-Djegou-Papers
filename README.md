@@ -6,8 +6,9 @@ I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and
 
 - Joint Models
 - Neural Networks
+- Recurrent Events
 - Accelerated Life Models  
-- Recurrent Event Data  
+
 
 
 ___
@@ -53,6 +54,16 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Include a **subject-level frailty term** for within-subject dependence.
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
 - Perform simulation studies and real-world data applications to show that DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
+
+### ☞ Deep Survival Learning: Foundations, Methods, and Applications for Recurrent Event Data  
+
+Recurrent event data extend survival analysis beyond time-to-first event, capturing repeated occurrences across healthcare, engineering, and social sciences.  
+
+- Provide a **theoretical foundation** for recurrent event modeling in the context of deep learning.  
+- Review **state-of-the-art deep survival methods**: RNNs, attention mechanisms, and deep hazard/intensity estimators.  
+- Address key challenges such as **censoring**, **time-varying covariates**, and **irregular event sequences**.  
+- Highlight **applications** in hospital readmissions, chronic disease progression, system reliability, and behavioral event modeling.  
+- Demonstrate how deep survival learning improves **predictive accuracy** and **interpretability** over traditional models.  
 
 ---
 
