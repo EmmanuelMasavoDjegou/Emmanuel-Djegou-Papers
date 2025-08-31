@@ -49,11 +49,11 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 
 Recurrent event data commonly arise in biomedical and reliability studies, with multiple failures per subject.
 
-- Extend **DeepR-AFT** framework to recurrent events via **DeepR-Recur**, a DNN model with **Gehan-type rank loss**.
+- Extend **DeepR-AFT** framework to recurrent events via **DeepR-AGT-Recur**, a DNN model with **Gehan-type rank loss**.
 - Capture nonlinear relationships between covariates and event times over multiple occurrences.
 - Include a **subject-level frailty term** for within-subject dependence.
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
-- Perform simulation studies and real-world data applications to show that DeepR-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
+- Perform simulation studies and real-world data applications to show that DeepR-AGT-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
 ### ☞ Deep Survival Learning: Foundations, Methods, and Applications for Recurrent Event Data  
 
