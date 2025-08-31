@@ -7,6 +7,7 @@ I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and
 - Recurrent Event Modeling  
 - Accelerated Life Models  
 - Neural Networks
+- Joint Models
 
 ___
 
