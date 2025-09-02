@@ -45,7 +45,7 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 
 ---
 
-### ☞ Modeling Recurrent Events Using Deep Neural Networks in Accelerated Failure Time Models
+### ☞ Modeling Recurrent Events with Deep Neural Networks in Accelerated Failure Time Models Using Gehan Loss
 
 Recurrent event data commonly arise in biomedical and reliability studies, with multiple failures per subject.
 
