@@ -19,7 +19,7 @@ ___
 
 ---
 
-## Research Publications
+## 📝 Research Publications
 
 **Manuscripts in Preparation**
 1. Djegou, E., & Adekpedjou, A. (2025). *Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events*.  
