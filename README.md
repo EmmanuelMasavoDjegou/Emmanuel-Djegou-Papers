@@ -19,7 +19,20 @@ ___
 
 ---
 
-## 📂 Ongoing Projects
+## Research Publications
+
+**Manuscripts in Preparation**
+1. Djegou, E., & Adekpedjou, A. (2025). *Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events*.  
+2. Djegou, E. (2025). *Deep Learning Methods in Survival Analysis for Recurrent Events: A Review*.  
+3. Djegou, E., & Adekpedjou, A. (2025). *Modeling Recurrent Events with Deep Neural Networks in Accelerated Failure Time Models Using Gehan Loss*.  
+
+**Current Research**
+1. Djegou, E. (2025). *Efficient Semiparametric Methods for Generalized Virtual Age Models with Time-Varying Covariates*.  
+2. Djegou, E. & Chakraborty, N. (2025). *LSTM-Based Accelerated Failure Time Models for Recurrent Event Risk Prediction*.  
+3. Boamah, E., Kaffle, A., & Djegou, E. (2025). *Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves*.  
+
+
+## 📂 Projects Description
 
 ### ☞ Efficient Estimation in Semiparametric Accelerated Life Models for Recurrent Events
 
@@ -67,6 +80,27 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 - Estimators are **consistent and asymptotically normal**.
 - Proposed a **novel failure time simulation algorithm**.
 - Demonstrated improved accuracy on biomedical datasets.
+
+
+### ☞ LSTM-Based Accelerated Failure Time Models for Recurrent Event Risk Prediction  
+
+Recurrent event data arise in many domains such as biomedical research, reliability engineering, and risk assessment, where individuals or systems may experience multiple events over time. Traditional Accelerated Failure Time (AFT) models offer interpretability but struggle with capturing nonlinear temporal dynamics and time-varying covariates.  
+
+- Proposed an **LSTM-AFT framework** that integrates Long Short-Term Memory (LSTM) networks with AFT models.  
+- Captures **static and dynamic covariates** as well as **nonlinear dependencies** across event histories.  
+- Provides a flexible approach for **risk prediction** in recurrent event settings.  
+- Demonstrated improved **predictive accuracy** compared to standard recurrent event models.  
+
+---
+
+### ☞ Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves  
+
+Claims reserving in insurance requires accurate prediction of both Reported But Not Settled (RBNS) and Incurred But Not Reported (IBNR) claims. While recent hybrid neural network approaches have advanced RBNS modeling, IBNR claims pose unique challenges due to the absence of detailed claim-level features and the presence of large-loss risks.  
+
+- Extended **hybrid neural network models** to explicitly handle IBNR reserves.  
+- Investigated the use of **predictive indicators** and **ensemble techniques** to improve accuracy.  
+- Proposed a **dual-framework** separating RBNS and IBNR modeling for improved reserve allocation.  
+- Results show potential for **enhanced prediction** and **nuanced treatment of large-loss claims** in actuarial practice.  
 
 ---
 
