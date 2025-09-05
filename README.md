@@ -29,7 +29,7 @@ ___
 **Current Research**
 1. Djegou, E. (2025). *Efficient Semiparametric Methods for Generalized Virtual Age Models with Time-Varying Covariates*.  
 2. Djegou, E. & Chakraborty, N. (2025). *LSTM-Based Accelerated Failure Time Models for Recurrent Event Risk Prediction*.  
-3. Boamah, E., Kaffle, A., & Djegou, E. (2025). *Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves*.  
+3. Boamah, E., Kafle, A., & Djegou, E. (2025). *Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves*.  
 
 
 ## 📂 Projects Description
