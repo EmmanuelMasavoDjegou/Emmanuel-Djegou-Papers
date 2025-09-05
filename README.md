@@ -32,7 +32,7 @@ Accelerated life models, such as the Accelerated Failure Time (AFT) model, relat
 
 ---
 
-# Deep Learning Methods in Survival Analysis for Recurrent Events: A Review
+### ☞ Deep Learning Methods in Survival Analysis for Recurrent Events: A Review
 
 Recurrent event data extend traditional survival analysis beyond the first event, capturing repeated occurrences across healthcare, engineering, and social sciences. This review focuses on **deep learning methods** specifically designed for recurrent event survival analysis.
 
