@@ -4,10 +4,10 @@ I am a **Ph.D. candidate in Statistics** at **Missouri University of Science and
 
 ##  🎯 Interests
 
-- Joint Models
 - Neural Networks
 - Recurrent Events
-- Accelerated Life Models  
+- Accelerated Life Models
+- Joint Survival Models  
 
 
 
