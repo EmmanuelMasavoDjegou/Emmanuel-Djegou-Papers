@@ -45,7 +45,6 @@ Recurrent event data extend traditional survival analysis beyond the first event
 ---
 
 
-
 ### ☞ Modeling Recurrent Events with DNNs in Accelerated Failure Time Models Using Gehan Loss
 
 Recurrent event data commonly arise in biomedical and reliability studies, with multiple failures per subject.
@@ -58,7 +57,7 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 
 ---
 
-### ☞ Extending Virtual Age Models via Dynamic Covariate Acceleration for Biomedical Applications
+### ☞ Efficient Semiparametric Methods for Generalized Virtual Age Models with Time-Varying Covariates
 
 Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
 
