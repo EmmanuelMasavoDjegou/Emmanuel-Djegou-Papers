@@ -32,18 +32,19 @@ Accelerated life models, such as the Accelerated Failure Time (AFT) model, relat
 
 ---
 
-### ☞ Extending Virtual Age Models via Dynamic Covariate Acceleration for Biomedical Applications
+# Deep Learning Methods in Survival Analysis for Recurrent Events: A Review
 
-Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
+Recurrent event data extend traditional survival analysis beyond the first event, capturing repeated occurrences across healthcare, engineering, and social sciences. This review focuses on **deep learning methods** specifically designed for recurrent event survival analysis.
 
-- Introduce a **general class of virtual age models** where **time-varying covariates directly influence virtual age**.
-- Offers flexible modeling of recurrent events (e.g., post-surgical readmissions), accounting for censoring and imperfect interventions.
-- Inference based on **semiparametric efficiency theory** via reparameterization of baseline intensity and monotone estimating equations.
-- Estimators are **consistent and asymptotically normal**.
-- Proposed a **novel failure time simulation algorithm**.
-- Demonstrated improved accuracy on biomedical datasets.
+- Provide a **theoretical foundation** for modeling recurrent events using deep learning techniques.  
+- Survey **state-of-the-art deep survival methods**, including RNNs, LSTMs, attention mechanisms, and deep hazard/intensity estimators.  
+- Discuss key challenges such as **censoring**, **time-varying covariates**, and **irregular event sequences** in recurrent event data.  
+- Highlight **practical applications** in hospital readmissions, chronic disease progression, system reliability, and behavioral event modeling.  
+- Demonstrate how deep survival learning improves **predictive performance** and **interpretability** compared to traditional recurrent event models.
 
 ---
+
+
 
 ### ☞ Modeling Recurrent Events with DNNs in Accelerated Failure Time Models Using Gehan Loss
 
@@ -55,15 +56,18 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
 - Perform simulation studies and real-world data applications to show that DeepR-AGT-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
-### ☞ Deep Survival Learning: Foundations, Methods, and Applications for Recurrent Event Data  
+---
 
-Recurrent event data extend survival analysis beyond time-to-first event, capturing repeated occurrences across healthcare, engineering, and social sciences.  
+### ☞ Extending Virtual Age Models via Dynamic Covariate Acceleration for Biomedical Applications
 
-- Provide a **theoretical foundation** for recurrent event modeling in the context of deep learning.  
-- Review **state-of-the-art deep survival methods**: RNNs, attention mechanisms, and deep hazard/intensity estimators.  
-- Address key challenges such as **censoring**, **time-varying covariates**, and **irregular event sequences**.  
-- Highlight **applications** in hospital readmissions, chronic disease progression, system reliability, and behavioral event modeling.  
-- Demonstrate how deep survival learning improves **predictive accuracy** and **interpretability** over traditional models.  
+Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
+
+- Introduce a **general class of virtual age models** where **time-varying covariates directly influence virtual age**.
+- Offers flexible modeling of recurrent events (e.g., post-surgical readmissions), accounting for censoring and imperfect interventions.
+- Inference based on **semiparametric efficiency theory** via reparameterization of baseline intensity and monotone estimating equations.
+- Estimators are **consistent and asymptotically normal**.
+- Proposed a **novel failure time simulation algorithm**.
+- Demonstrated improved accuracy on biomedical datasets.
 
 ---
 
