@@ -27,8 +27,8 @@ ___
 3. Djegou, E. (2025). *Deep Learning Methods in Survival Analysis for Recurrent Events: A Review*.  
 
 **Current Research**
-4. Djegou, E., & Adekpedjou, A. *Modeling Recurrent Events with Deep Neural Networks in Accelerated Failure Time Models Using Gehan Loss*.    
-5. Boamah, E., Kafle, A., & Djegou, E. *Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves*.  
+1. Djegou, E., & Adekpedjou, A. *Modeling Recurrent Events with Deep Neural Networks in Accelerated Failure Time Models Using Gehan Loss*.    
+2. Boamah, E., Kafle, A., & Djegou, E. *Extending Hybrid Neural Networks for Predictive Modeling of Incurred but Not Reported Claims Reserves*.  
 
 
 ## 📂 Projects Description
