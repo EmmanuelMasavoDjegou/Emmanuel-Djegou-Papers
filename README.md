@@ -44,6 +44,19 @@ Accelerated life models, such as the Accelerated Failure Time (AFT) model, relat
 
 ---
 
+### ☞ Efficient Semiparametric Methods for Generalized Virtual Age Models with Time-Varying Covariates
+
+Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
+
+- Introduce a **general class of virtual age models** where **time-varying covariates directly influence virtual age**.
+- Offers flexible modeling of recurrent events (e.g., post-surgical readmissions), accounting for censoring and imperfect interventions.
+- Inference based on **semiparametric efficiency theory** via reparameterization of baseline intensity and monotone estimating equations.
+- Estimators are **consistent and asymptotically normal**.
+- Proposed a **novel failure time simulation algorithm**.
+- Demonstrated improved accuracy on biomedical datasets.
+
+---
+
 ### ☞ Deep Learning Methods in Survival Analysis for Recurrent Events: A Review
 
 Recurrent event data extend traditional survival analysis beyond the first event, capturing repeated occurrences across healthcare, engineering, and social sciences. This review focuses on **deep learning methods** specifically designed for recurrent event survival analysis.
@@ -67,18 +80,6 @@ Recurrent event data commonly arise in biomedical and reliability studies, with 
 - Employ **stratified subsampling** for stable learning amid censored and irregularly spaced events.
 - Perform simulation studies and real-world data applications to show that DeepR-AGT-Recur outperforms traditional AFT and Cox models in accuracy and interpretability.
 
----
-
-### ☞ Efficient Semiparametric Methods for Generalized Virtual Age Models with Time-Varying Covariates
-
-Traditional virtual age models assume covariates influence only baseline hazard of initial failure times, ignoring their effect on the virtual age reflecting post-intervention condition.
-
-- Introduce a **general class of virtual age models** where **time-varying covariates directly influence virtual age**.
-- Offers flexible modeling of recurrent events (e.g., post-surgical readmissions), accounting for censoring and imperfect interventions.
-- Inference based on **semiparametric efficiency theory** via reparameterization of baseline intensity and monotone estimating equations.
-- Estimators are **consistent and asymptotically normal**.
-- Proposed a **novel failure time simulation algorithm**.
-- Demonstrated improved accuracy on biomedical datasets.
 
 ---
 
