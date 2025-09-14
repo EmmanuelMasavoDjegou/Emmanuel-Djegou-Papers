@@ -81,6 +81,7 @@ Traditional virtual age models assume covariates influence only baseline hazard 
 - Proposed a **novel failure time simulation algorithm**.
 - Demonstrated improved accuracy on biomedical datasets.
 
+---
 
 ### ☞ LSTM-Based Accelerated Failure Time Models for Recurrent Event Risk Prediction  
 
